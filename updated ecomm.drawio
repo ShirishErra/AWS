@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-06T08:54:09.020Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="v_J3qnHYkmLsHWSmDBNS" version="16.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-06T08:55:08.836Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="OIUYaz7VCIhiAtfSrpb0" version="16.6.6" type="github">
   <diagram id="dGK5xZqpM7XCNRweWZIY" name="Page-1">
     <mxGraphModel dx="1278" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -171,10 +171,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HMBIdSZYqoNYSO5b0g_p-34" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Sagemaker&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=20;fontStyle=1;verticalAlign=middle;align=center;" parent="s2iLsqbhEoJUC6y4_RUH-2" vertex="1">
-          <mxGeometry x="431" y="207" width="100" height="20" as="geometry" />
+          <mxGeometry x="488" y="271" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="HMBIdSZYqoNYSO5b0g_p-35" value="&lt;font style=&quot;font-size: 18px&quot;&gt;QuickSight&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=20;fontStyle=1;verticalAlign=middle;align=center;" parent="s2iLsqbhEoJUC6y4_RUH-2" vertex="1">
-          <mxGeometry x="558" y="270" width="100" height="20" as="geometry" />
+          <mxGeometry x="558" y="207" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="jgbXGi7hfd4va_pr6LZk-4" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#F78E04;gradientDirection=north;fillColor=#D05C17;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.lambda;" vertex="1" parent="s2iLsqbhEoJUC6y4_RUH-2">
           <mxGeometry x="220" y="231" width="40" height="40" as="geometry" />
